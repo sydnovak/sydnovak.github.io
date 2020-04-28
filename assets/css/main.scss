@@ -11,5 +11,13 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
-    "starsnonscss"
+	"starsnonscss",
+	"libs/vars",
+	"libs/functions",
+	"libs/mixins",
+	"libs/skel",
+	"components/icon",
+	"components/list",
+	"components/image",
+	'../css/font-awesome.min.css'
 ;
